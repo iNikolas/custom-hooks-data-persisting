@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/custom-hooks-data-persisting/static/js/main.a3fa52d8.chunk.js",
+    "main.js.map": "/custom-hooks-data-persisting/static/js/main.a3fa52d8.chunk.js.map",
+    "runtime-main.js": "/custom-hooks-data-persisting/static/js/runtime-main.c588ab68.js",
+    "runtime-main.js.map": "/custom-hooks-data-persisting/static/js/runtime-main.c588ab68.js.map",
+    "static/js/2.0aade136.chunk.js": "/custom-hooks-data-persisting/static/js/2.0aade136.chunk.js",
+    "static/js/2.0aade136.chunk.js.map": "/custom-hooks-data-persisting/static/js/2.0aade136.chunk.js.map",
+    "index.html": "/custom-hooks-data-persisting/index.html",
+    "static/js/2.0aade136.chunk.js.LICENSE.txt": "/custom-hooks-data-persisting/static/js/2.0aade136.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c588ab68.js",
+    "static/js/2.0aade136.chunk.js",
+    "static/js/main.a3fa52d8.chunk.js"
+  ]
+}
